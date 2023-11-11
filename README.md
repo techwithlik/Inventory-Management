@@ -1,0 +1,3 @@
+# Reinforcement Learning in a Supply Chain Inventory Management Problem.
+
+In this study, I used OR-Gym from OpenAI Gym to simulate the supply chain inventory management problem and introduced an autonomous intelligent agent to solve the problem using RL. I was motivated to work on this topic after learning about inventory management problems in my university’s Supply Chain and Operations Planning module. Therefore, this study revolves around a real-life, important use case rather than just a simple environment. It can contribute to a broader understanding of using RL algorithms in supply chain management, how they can be utilized to enhance decision-making processes, and improve the design of inventory management systems and their performance.
